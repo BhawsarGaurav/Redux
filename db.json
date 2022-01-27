@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "gaurav@gmail.com",
+      "password": "gaurav123",
+      "name": "gaurav bhawsar",
+      "username": "Gaurav"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "choclate cake",
+      "category": "cake",
+      "img1": "./images/choclate Cake2.jpg",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "pinate cake",
+      "category": "cake",
+      "img1": "./images/pinata2.jpg",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "pineapple cake",
+      "category": "cake",
+      "img1": "./images/pineapplecake6.jpg",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "vanilla cake",
+      "category": "cake",
+      "img1": "./images/vanilla2.jpg",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "mississipi cupcakes",
+      "category": "cupcakes",
+      "img1": "mississipi mud.jpg",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "hummigbird cupcakes",
+      "category": "cupcakes",
+      "img1": "hummigbird.jpg",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "choclatechip cupcakes",
+      "category": "cupcakes",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "img1": "choclate chip.jpg"
+    },
+    {
+      "id": 8,
+      "name": "banana cupcakes",
+      "category": "cupcakes",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "img1": "Banana bread latte.jpg"
+    },
+    {
+      "id": 9,
+      "name": "crumb",
+      "category": "doughnut",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "img1": "crumb.jpg"
+    },
+    {
+      "id": 10,
+      "name": "coconut",
+      "category": "doughnut",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "img1": "coconut.jpg"
+    },
+    {
+      "id": 11,
+      "name": "choclate frosted",
+      "category": "doughnut",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "img1": "choclate frosted.jpg"
+    },
+    {
+      "id": 12,
+      "name": "blueberry",
+      "category": "doughnut",
+      "img2":"./images/pinata2.jpg",
+      "img3":"./images/pinata3.jpg",
+      "img1": "blueberry.jpg"
+    }
+  ]
+}
